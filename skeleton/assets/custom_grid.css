@@ -1,0 +1,16 @@
+/* PUT FLUID GRID CODE HERE */
+
+.aside-grid {
+  float: left;
+  width: 30%;
+  box-sizing: content-box;
+  
+  
+}
+
+.main-grid {
+  float: left;
+  width: 70%;
+  box-sizing: content-box;
+
+}
